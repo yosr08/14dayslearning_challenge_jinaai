@@ -2,10 +2,7 @@
 
 This is Learning challenge where the goal is to get a dive in Jina Ai functionalities.
 
-we'll be working on this challenge me and my team :
-
-    * Yosr Halleb
-    * Oussama Bahri
+**Team_name : Worriors**
 
 **Jina AI is a Neural Search Company**
 
