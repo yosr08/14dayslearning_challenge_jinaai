@@ -1,6 +1,11 @@
 # 14dayslearning_challenge_jinaai
 
-We started me and my teammate Oussama Bahri this Learning challenge where the goal is to get a dive in Jina Ai functionalities.
+This is Learning challenge where the goal is to get a dive in Jina Ai functionalities.
+
+we'll be working on this challenge me and my team :
+
+    * Yosr Halleb
+    * Oussama Bahri
 
 **Jina AI is a Neural Search Company**
 
